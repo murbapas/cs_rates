@@ -15,6 +15,10 @@ root = ET.fromstring(rates, parser=ET.XMLParser(encoding='latin-1'))
 # initialize a table
 t = PrettyTable(['Years', 'Price'])
 
+# get the timestamp of the rates
+job_order_date = root.find('./jobOrderDate/TimeStamp').text
+print("Timestamp: {}".format(job_order_date))
+
 for product in root.findall('./*[@code="0011"]/productGroup/currency/product'):
 
     # select only standard product
@@ -26,6 +30,5 @@ for product in root.findall('./*[@code="0011"]/productGroup/currency/product'):
             # limit output to a few years
             if years in ['2', '3', '5', '10']:
                 t.add_row([years, price])
-                # print("{}, {}".format(years, price))
 
 print(t)

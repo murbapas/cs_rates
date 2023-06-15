@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "iPrice.dtd">
+<root>
+    <generated>
+        <TimeStamp>2023-06-14T09:45:10Z</TimeStamp>
+    </generated>
+    <jobOrderDate>
+        <TimeStamp>2023-06-14T10:00:00Z</TimeStamp>
+    </jobOrderDate>
+    <BU code="0011">
+        <referenceRates>
+            <TimeStamp>2023-06-14T07:22:11Z</TimeStamp>
+        </referenceRates>
+        <productGroup type="Mortgages">
+            <currency code="CHF">
+                <product>
+                    <code>00538</code>
+                    <name maxlength="16">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <pricing>
+                        <term type="years">1</term>
+                        <price>3.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">2</term>
+                        <price>3.340</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">3</term>
+                        <price>3.320</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">4</term>
+                        <price>3.290</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">5</term>
+                        <price>3.270</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">6</term>
+                        <price>3.270</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">7</term>
+                        <price>3.280</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">8</term>
+                        <price>3.290</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">9</term>
+                        <price>3.310</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">10</term>
+                        <price>3.330</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">11</term>
+                        <price>3.410</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">12</term>
+                        <price>3.460</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">13</term>
+                        <price>3.500</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">14</term>
+                        <price>3.550</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">15</term>
+                        <price>3.570</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">16</term>
+                        <price>3.720</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">17</term>
+                        <price>3.730</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">18</term>
+                        <price>3.770</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">19</term>
+                        <price>3.810</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">20</term>
+                        <price>3.850</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">21</term>
+                        <price>3.880</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">22</term>
+                        <price>3.930</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">23</term>
+                        <price>3.970</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">24</term>
+                        <price>4.020</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">25</term>
+                        <price>4.060</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>02543</code>
+                    <name maxlength="16">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <pricing>
+                        <term type="years">1</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">2</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">3</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">4</term>
+                        <price>2.860</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">5</term>
+                        <price>2.890</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">6</term>
+                        <price>2.920</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">7</term>
+                        <price>2.950</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">8</term>
+                        <price>2.980</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">9</term>
+                        <price>3.010</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">10</term>
+                        <price>3.040</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>03543</code>
+                    <name maxlength="16">
+                        <de>SARON-R/o-Hypo</de>
+                        <en>SARON rollover</en>
+                        <fr>Hypo SARON r/o</fr>
+                        <it>Ipo SARON r/o</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>SARON-Rollover-Hypothek</de>
+                        <en>SARON rollover mortgage</en>
+                        <fr>Hypothèque SARON rollover</fr>
+                        <it>Ipoteca SARON rollover</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>SARON-Rollover-Hypothek</de>
+                        <en>SARON rollover mortgage</en>
+                        <fr>Hypothèque SARON rollover</fr>
+                        <it>Ipoteca SARON rollover</it>
+                    </name>
+                    <pricing>
+                        <term type="years">1</term>
+                        <trancheTerm type="months">1</trancheTerm>
+                        <price>2.880</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">2</term>
+                        <trancheTerm type="months">1</trancheTerm>
+                        <price>2.880</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>00537</code>
+                    <name maxlength="16">
+                        <de>Variable Hyp.</de>
+                        <en>Adjustable mort.</en>
+                        <fr>Hyp. à taux var.</fr>
+                        <it>Ipo. tasso var.</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Variable Hypothek</de>
+                        <en>Adjustable-rate mortgage</en>
+                        <fr>Hypothèque à taux variable</fr>
+                        <it>Ipoteca a tasso variabile</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Variable Hypothek</de>
+                        <en>Adjustable-rate mortgage</en>
+                        <fr>Hypothèque à taux variable</fr>
+                        <it>Ipoteca a tasso variabile</it>
+                    </name>
+                    <pricing>
+                        <price>3.850</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>00900</code>
+                    <name maxlength="16">
+                        <de>Baukredit</de>
+                        <en>Construc. loan</en>
+                        <fr>Crédit construc.</fr>
+                        <it>Credito costruz.</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Baukredit</de>
+                        <en>Construction loan</en>
+                        <fr>Crédit de construction</fr>
+                        <it>Credito di costruzione</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Baukredit</de>
+                        <en>Construction loan</en>
+                        <fr>Crédit de construction</fr>
+                        <it>Credito di costruzione</it>
+                    </name>
+                    <pricing>
+                        <price>2.600</price>
+                    </pricing>
+                </product>
+            </currency>
+        </productGroup>
+    </BU>
+    <BU code="0012">
+        <referenceRates>
+            <TimeStamp>2023-06-14T07:22:11Z</TimeStamp>
+        </referenceRates>
+        <productGroup type="Mortgages">
+            <currency code="CHF">
+                <product>
+                    <code>00538</code>
+                    <name maxlength="16">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Fix-Hypothek</de>
+                        <en>Fix mortgage</en>
+                        <fr>Hypothèque fix</fr>
+                        <it>Ipoteca fix</it>
+                    </name>
+                    <pricing>
+                        <term type="years">1</term>
+                        <price>3.810</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">2</term>
+                        <price>3.320</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">3</term>
+                        <price>3.300</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">4</term>
+                        <price>3.270</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">5</term>
+                        <price>3.250</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">6</term>
+                        <price>3.250</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">7</term>
+                        <price>3.260</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">8</term>
+                        <price>3.270</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">9</term>
+                        <price>3.290</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">10</term>
+                        <price>3.310</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">11</term>
+                        <price>3.390</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">12</term>
+                        <price>3.440</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">13</term>
+                        <price>3.480</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">14</term>
+                        <price>3.530</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">15</term>
+                        <price>3.550</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">16</term>
+                        <price>3.700</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">17</term>
+                        <price>3.710</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">18</term>
+                        <price>3.750</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">19</term>
+                        <price>3.790</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">20</term>
+                        <price>3.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">21</term>
+                        <price>3.860</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">22</term>
+                        <price>3.910</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">23</term>
+                        <price>3.950</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">24</term>
+                        <price>4.000</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">25</term>
+                        <price>4.040</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>02543</code>
+                    <name maxlength="16">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>SARON-Hypothek</de>
+                        <en>SARON mortgage</en>
+                        <fr>Hypothèque SARON</fr>
+                        <it>Ipoteca SARON</it>
+                    </name>
+                    <pricing>
+                        <term type="years">1</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">2</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">3</term>
+                        <price>2.830</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">4</term>
+                        <price>2.860</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">5</term>
+                        <price>2.890</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">6</term>
+                        <price>2.920</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">7</term>
+                        <price>2.950</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">8</term>
+                        <price>2.980</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">9</term>
+                        <price>3.010</price>
+                    </pricing>
+                    <pricing>
+                        <term type="years">10</term>
+                        <price>3.040</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>00537</code>
+                    <name maxlength="16">
+                        <de>Variable Hyp.</de>
+                        <en>Adjustable mort.</en>
+                        <fr>Hyp. à taux var.</fr>
+                        <it>Ipo. tasso var.</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Variable Hypothek</de>
+                        <en>Adjustable-rate mortgage</en>
+                        <fr>Hypothèque à taux variable</fr>
+                        <it>Ipoteca a tasso variabile</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Variable Hypothek</de>
+                        <en>Adjustable-rate mortgage</en>
+                        <fr>Hypothèque à taux variable</fr>
+                        <it>Ipoteca a tasso variabile</it>
+                    </name>
+                    <pricing>
+                        <price>3.850</price>
+                    </pricing>
+                </product>
+                <product>
+                    <code>00900</code>
+                    <name maxlength="16">
+                        <de>Baukredit</de>
+                        <en>Construc. loan</en>
+                        <fr>Crédit construc.</fr>
+                        <it>Credito costruz.</it>
+                    </name>
+                    <name maxlength="30">
+                        <de>Baukredit</de>
+                        <en>Construction loan</en>
+                        <fr>Crédit de construction</fr>
+                        <it>Credito di costruzione</it>
+                    </name>
+                    <name maxlength="80">
+                        <de>Baukredit</de>
+                        <en>Construction loan</en>
+                        <fr>Crédit de construction</fr>
+                        <it>Credito di costruzione</it>
+                    </name>
+                    <pricing>
+                        <price>2.600</price>
+                    </pricing>
+                </product>
+            </currency>
+        </productGroup>
+    </BU>
+</root>
