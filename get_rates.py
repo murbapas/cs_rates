@@ -16,7 +16,7 @@ root = ET.fromstring(rates, parser=ET.XMLParser(encoding='latin-1'))
 t = PrettyTable(['Years', 'Price'])
 
 # get the timestamp of the rates
-job_order_date = root.find('./jobOrderDate/TimeStamp').text
+job_order_date = root.find('./*[@code="0011"]/referenceRates/TimeStamp').text
 print("Timestamp: {}".format(job_order_date))
 
 for product in root.findall('./*[@code="0011"]/productGroup/currency/product'):
